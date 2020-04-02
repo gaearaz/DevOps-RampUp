@@ -39,8 +39,13 @@ The objective of this challenge is to set up [git-flow](http://nvie.com/posts/a-
 
 - Provide a diagram of your branching strategy
 
+
+Here is the Branching Strategy proposed by @gaearaz :
+![BranchingStrategy](DevOpsRampUpgitflow.png)
+
+
 ---
-Porpuesta: Vagrant para virtualización y que ahí se desarrolle CM
+Propuesta: Vagrant para virtualización y que ahí se desarrolle CM
 
 ---
 ### **2. AWS Basics**
