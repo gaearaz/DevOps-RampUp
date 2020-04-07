@@ -69,9 +69,9 @@ Steps:
 
 Attached photos of Theoretical study:
 
-![TS1](C:\Users\azapatao\OneDrive\DevOps\RampUp\1.SCM-Set Up git-flow\DevOps-RampUp\TS1.jpg)
+![TS1](TS1.jpg)
 
-![TS2](C:\Users\azapatao\OneDrive\DevOps\RampUp\1.SCM-Set Up git-flow\DevOps-RampUp\TS2.jpg)
+![TS2](TS2.jpg)
 
 ---
 ### **3. Configuration Management**
