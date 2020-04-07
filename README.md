@@ -43,7 +43,6 @@ The objective of this challenge is to set up [git-flow](http://nvie.com/posts/a-
 Here is the Branching Strategy proposed by @gaearaz :
 ![BranchingStrategy](DevOpsRampUpgitflow.png)
 
-
 ---
 Propuesta: Vagrant para virtualización y que ahí se desarrolle CM
 
@@ -67,6 +66,12 @@ Steps:
  - Setup EC2 instances.
  - Create auto scaling groups
  - Create a load balancer
+
+Attached photos of Theoretical study:
+
+![TS1](C:\Users\azapatao\OneDrive\DevOps\RampUp\1.SCM-Set Up git-flow\DevOps-RampUp\TS1.jpg)
+
+![TS2](C:\Users\azapatao\OneDrive\DevOps\RampUp\1.SCM-Set Up git-flow\DevOps-RampUp\TS2.jpg)
 
 ---
 ### **3. Configuration Management**
