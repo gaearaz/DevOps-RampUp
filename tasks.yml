@@ -6,6 +6,7 @@
         instance_type: t2.micro
         key_name: UI Server
         image: ami-0fc20dd1da406780b
+        region: us-east-2
         count: 1
         vpc_subnet_id: vpc-64b5f70d
         assign_public_ip: yes
