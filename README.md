@@ -81,6 +81,18 @@ Ansible is encouraged for beginners, but feel free to use Chef or Puppet instead
 Proper management of key pairs for SSH access is crucial to this challenge.
 Remember dynamic inventory.
 
+Tool selected: Ansible
+
+For this, is used the repos of 
+
+UI ([movie-analyst-ui](github.com/gaearaz/movie-analyst-ui)), 
+
+API ([movie-analyst-api](https://github.com/gaearaz/movie-analyst-api)),
+
+and a new repo to host the config files ([DevOps-RampUp-Res](https://github.com/gaearaz/DevOps-RampUp-Res))
+
+![DevOpsRampUpArchitectureDiagram](DevOpsRampUpArchitectureDiagram.png)
+
 ---
 ### **4. CI/CD**
 
